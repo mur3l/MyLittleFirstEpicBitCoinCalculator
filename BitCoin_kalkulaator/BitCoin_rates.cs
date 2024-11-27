@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace BitCoin_kalkulaator
 {
     public class BitCoin_rates
-    {}
+    {
+        public Bpi Bpi { get; set; }
+    }
     public class Bpi
     {
         public USD USD { get; set; }
@@ -15,7 +17,7 @@ namespace BitCoin_kalkulaator
         public EUR EUR { get; set; }
     }
 
-    public class EUR
+    public class USD
     {
         public string code { get; set; }
         public string symbol { get; set; }
@@ -32,7 +34,7 @@ namespace BitCoin_kalkulaator
         public string description { get; set; }
         public double rate_float { get; set; }
     }
-    public class USD
+    public class EUR
     {
         public string code { get; set; }
         public string symbol { get; set; }
@@ -40,4 +42,5 @@ namespace BitCoin_kalkulaator
         public string description { get; set; }
         public double rate_float { get; set; }
     }
+}
 

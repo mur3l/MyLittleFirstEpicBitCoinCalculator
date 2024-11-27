@@ -8,3 +8,16 @@ C:\Users\opilane\Desktop\BitCoin_kalkulaator\BitCoin_kalkulaator\obj\Debug\BitCo
 C:\Users\opilane\Desktop\BitCoin_kalkulaator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.csproj.CoreCompileInputs.cache
 C:\Users\opilane\Desktop\BitCoin_kalkulaator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.exe
 C:\Users\opilane\Desktop\BitCoin_kalkulaator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.pdb
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\bin\Debug\BitCoin_kalkulaator.exe.config
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\bin\Debug\BitCoin_kalkulaator.exe
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\bin\Debug\BitCoin_kalkulaator.pdb
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.csproj.AssemblyReference.cache
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.Form1.resources
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.Properties.Resources.resources
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.csproj.GenerateResource.cache
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\obj\Debug\BitCoin_.D90D3102.Up2Date
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.exe
+C:\Users\tauno\source\repos\mur3l\MyLittleFirstEpicBitCoinCalculator\BitCoin_kalkulaator\obj\Debug\BitCoin_kalkulaator.pdb
